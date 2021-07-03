@@ -96,8 +96,9 @@ body {
   top: 86px !important; }
 
 /* slider */
-.swiper-container {
-  margin: 40px auto 0 !important; }
+@media (min-width: 1200px) {
+  .swiper-container {
+    margin: 40px auto 0 !important; } }
 
 .swiper-slide.first {
   background-image: url(../images/slider-1.jpeg) !important;
