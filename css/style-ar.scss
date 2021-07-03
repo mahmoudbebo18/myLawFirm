@@ -367,3 +367,24 @@ body {
         }
     }
 }
+
+
+/* contact 
+
+  */
+
+.rd-mailform {
+    label {
+        text-align: right !important;
+    }
+    .button.button-block {
+        font-weight: normal;
+        font-size: 13px;
+    }
+}
+
+.col-lg-7.col-xl-6 {
+    h3 {
+        text-align: right;
+    }
+}

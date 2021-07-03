@@ -260,4 +260,16 @@ body {
 .owl-item .quote-minimal .quote-body p {
   line-height: 2.7; }
 
+/* contact 
+
+  */
+.rd-mailform label {
+  text-align: right !important; }
+.rd-mailform .button.button-block {
+  font-weight: normal;
+  font-size: 13px; }
+
+.col-lg-7.col-xl-6 h3 {
+  text-align: right; }
+
 /*# sourceMappingURL=style-ar.css.map */
