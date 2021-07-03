@@ -139,7 +139,7 @@ body {
 /* slider */
 
 .swiper-container {
-    @media(min-width: 1200px) {
+    @media(max-width: 1200px) {
         margin: 40px auto 0 !important;
     }
 }
