@@ -125,7 +125,7 @@ body {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
-    z-index: -1; }
+    z-index: 0; }
   .swiper-slide-caption .medium.text-primary {
     color: #ba1849 !important; }
   .swiper-slide-caption .header-decorated > *:before,
@@ -175,7 +175,7 @@ body {
       width: 100%;
       height: 100%;
       background-color: rgba(0, 0, 0, 0.7);
-      z-index: -1; }
+      z-index: 0; }
 
 /* send a message */
 .bg-whisper {
@@ -255,7 +255,7 @@ body {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
-    z-index: -1; }
+    z-index: 0; }
 
 .owl-item .quote-minimal .quote-body p {
   line-height: 2.7; }
